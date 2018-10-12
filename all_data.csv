@@ -1,0 +1,520 @@
+;Numer na liÅcie;Nazwisko i Imiona;Wiek;Miejsce zamieszkania;TreÅÄ oÅwiadczenia lustracyjnego;Komitet;Okreg
+0;1;POMIAN PaweÅ Marek;23;WrocÅaw;;KW Partia Zieloni;1
+1;2;FEDYK Katarzyna Beata;49;WrocÅaw;;KW Partia Zieloni;1
+2;3;SOBUÅKO Andrzej;47;WrocÅaw;;KW Partia Zieloni;1
+3;4;CIECHOWICZ Agnieszka BoÅ¼ena;44;WrocÅaw;;KW Partia Zieloni;1
+4;5;TABISZ Jacek;45;WrocÅaw;;KW Partia Zieloni;1
+5;6;MAZURKIEWICZ Aleksandra Agnieszka;42;WrocÅaw;;KW Partia Zieloni;1
+6;7;REISIGOVÃ-KIELAWSKA Hana;35;WrocÅaw;;KW Partia Zieloni;1
+0;1;TRACZ MaÅgorzata ElÅ¼bieta;32;WrocÅaw;;KW Partia Zieloni;2
+1;2;REISIGOVÃ-KIELAWSKI Robert PaweÅ;35;WrocÅaw;;KW Partia Zieloni;2
+2;3;POZLEWICZ Danuta Joanna;55;WrocÅaw;;KW Partia Zieloni;2
+3;4;PALUSZEK PrzemysÅaw Andrzej;33;WrocÅaw;;KW Partia Zieloni;2
+4;5;KALICZAK MaÅgorzata Ewa;27;WrocÅaw;;KW Partia Zieloni;2
+5;6;KOÅNICKI Zbigniew Jerzy;55;WrocÅaw;;KW Partia Zieloni;2
+6;7;KOZAKIEWICZ Patrick;29;WrocÅaw;;KW Partia Zieloni;2
+0;1;WILK Martyna Anita;34;WrocÅaw;;KW Partia Zieloni;3
+1;2;TYCZYÅSKI Krzysztof Andrzej;35;WrocÅaw;;KW Partia Zieloni;3
+2;3;BANACH Magdalena Maria;38;WrocÅaw;;KW Partia Zieloni;3
+3;4;MIKLASZEWSKI Witold JÃ³zef;28;WrocÅaw;;KW Partia Zieloni;3
+4;5;ÅPIEWAK Ewa MaÅgorzata;31;WrocÅaw;;KW Partia Zieloni;3
+5;6;KOMARNICKI Adam Andrzej;30;WrocÅaw;;KW Partia Zieloni;3
+6;7;LUBA-LEWICKA Beata Ewa;47;WrocÅaw;;KW Partia Zieloni;3
+0;1;ROKICKA Julia Agata;27;WrocÅaw;;KW Partia Zieloni;4
+1;2;LUTY Jerzy;43;WrocÅaw;;KW Partia Zieloni;4
+2;3;TERPIÅOWSKA Irena RÃ³Å¼a;57;WrocÅaw;;KW Partia Zieloni;4
+3;4;OÅMIAÅOWSKI Wojciech Marcin;41;WrocÅaw;;KW Partia Zieloni;4
+4;5;URYN Jacek JÃ³zef;59;WrocÅaw;;KW Partia Zieloni;4
+5;6;KRZYÅ»AK Edward Jerzy;49;WrocÅaw;;KW Partia Zieloni;4
+6;7;FURTAK-POBROTYN Joanna Marta;46;WrocÅaw;;KW Partia Zieloni;4
+0;1;HERTMAN Mateusz;36;WrocÅaw;;KW Partia Zieloni;5
+1;2;KURANDA-LASKOWSKA Sylwestra Paulina;66;WrocÅaw;;KW Partia Zieloni;5
+2;3;NOWICKI Arkadiusz;24;WrocÅaw;;KW Partia Zieloni;5
+3;4;OSÅOWSKA-SPYCHALSKA Barbara Krystyna;62;WrocÅaw;;KW Partia Zieloni;5
+4;5;POLUCH Krzysztof;67;WrocÅaw;;KW Partia Zieloni;5
+5;6;RUSINEK Wioletta Katarzyna;45;WrocÅaw;;KW Partia Zieloni;5
+6;7;MROCZKO Krzysztof Dominik;38;WrocÅaw;;KW Partia Zieloni;5
+0;1;TEGNEROWICZ Piotr Jan;32;WrocÅaw;;KW Partia Zieloni;6
+1;2;DUKSZTO Aneta Ewa;45;WrocÅaw;;KW Partia Zieloni;6
+2;3;SZCZYGIEÅ Aleksandra Karolina;31;WrocÅaw;;KW Partia Zieloni;6
+3;4;PIÅAT Krzysztof Emil;47;WrocÅaw;;KW Partia Zieloni;6
+4;5;ZAMARIA-KÅYK Joanna Edyta;41;WrocÅaw;;KW Partia Zieloni;6
+5;6;KOZÅOWSKA Dorota;26;WrocÅaw;;KW Partia Zieloni;6
+6;7;SULIGOWSKI Robert Ziemowit;39;WrocÅaw;;KW Partia Zieloni;6
+7;8;SÅODKOWSKA Olga;30;WrocÅaw;;KW Partia Zieloni;6
+0;1;WÄSOWSKI Marek Maciej;59;WrocÅaw;;KW Partia Zieloni;7
+1;2;NAWROT Joanna Izabela;51;WrocÅaw;;KW Partia Zieloni;7
+2;3;GABARA-PIÄTKA Piotr;31;WrocÅaw;;KW Partia Zieloni;7
+3;4;SALAMON Anna GraÅ¼yna;48;WrocÅaw;;KW Partia Zieloni;7
+4;5;PASIKOWSKA Anna Magdalena;57;WrocÅaw;;KW Partia Zieloni;7
+5;6;MAZURKIEWICZ Maria Anna;66;WrocÅaw;;KW Partia Zieloni;7
+6;7;WYBORSKI Piotr Krzysztof;23;WrocÅaw;;KW Partia Zieloni;7
+0;1;SUTRYK Jacek Zbigniew;40;WrocÅaw;;KKW Koalicja Obywatelska;1
+1;2;GWADERA-URLEP Agata Izabela;42;WrocÅaw;;KKW Koalicja Obywatelska;1
+2;3;PUZIO Andrzej;71;WrocÅaw;;KKW Koalicja Obywatelska;1
+3;4;JÄDRACHOWICZ Mateusz PaweÅ;23;WrocÅaw;;KKW Koalicja Obywatelska;1
+4;5;WÃJCIK Igor Marcin;49;WrocÅaw;;KKW Koalicja Obywatelska;1
+5;6;WYSZKOWSKI Åukasz;36;WrocÅaw;;KKW Koalicja Obywatelska;1
+6;7;MAZUR Agata Genowefa;52;WrocÅaw;;KKW Koalicja Obywatelska;1
+7;8;NIEZGODZKA Jolanta Magdalena;27;WrocÅaw;;KKW Koalicja Obywatelska;1
+0;1;UHLE Piotr MichaÅ;30;WrocÅaw;;KKW Koalicja Obywatelska;2
+1;2;KOCZAN Henryk;57;WrocÅaw;;KKW Koalicja Obywatelska;2
+2;3;KOZÅOWSKA Marta Magdalena;41;WrocÅaw;;KKW Koalicja Obywatelska;2
+3;4;SZCZYGÅOWSKA-HOÅUBOWICZ Malwina Natalia;31;WrocÅaw;;KKW Koalicja Obywatelska;2
+4;5;ZALEWSKI Marek Krzysztof;39;WrocÅaw;;KKW Koalicja Obywatelska;2
+5;6;BONIECKI Jacek Dariusz;51;WrocÅaw;;KKW Koalicja Obywatelska;2
+6;7;SUPERSON-WINKOWSKA Agnieszka Zofia;35;WrocÅaw;;KKW Koalicja Obywatelska;2
+0;1;CHARÅAMPOWICZ JarosÅaw;48;WrocÅaw;;KKW Koalicja Obywatelska;3
+1;2;RYBCZAK Agnieszka;41;WrocÅaw;;KKW Koalicja Obywatelska;3
+2;3;WIÅNIEWSKI Maciej Mateusz;33;WrocÅaw;;KKW Koalicja Obywatelska;3
+3;4;LIPIÅSKI Piotr Krzysztof;25;WrocÅaw;;KKW Koalicja Obywatelska;3
+4;5;PIEÅCZYKOWSKA Aleksandra Justyna;26;WrocÅaw;;KKW Koalicja Obywatelska;3
+5;6;STAWICKA Maria;66;WrocÅaw;;KKW Koalicja Obywatelska;3
+6;7;ZALEWSKI Krzysztof;43;WrocÅaw;;KKW Koalicja Obywatelska;3
+0;1;LORENC Sebastian Åukasz;40;WrocÅaw;;KKW Koalicja Obywatelska;4
+1;2;GALANT Dorota Magdalena;35;WrocÅaw;;KKW Koalicja Obywatelska;4
+2;3;MÅYÅCZAK MichaÅ Mateusz;37;WrocÅaw;;KKW Koalicja Obywatelska;4
+3;4;SKUÅA Edyta;33;WrocÅaw;;KKW Koalicja Obywatelska;4
+4;5;PRZYJEMSKA-ÅPIEWAK Anna Maria;60;WrocÅaw;;KKW Koalicja Obywatelska;4
+5;6;GRUCA PrzemysÅaw Witold;29;WrocÅaw;;KKW Koalicja Obywatelska;4
+6;7;DZIERNIEJKO StanisÅaw Franciszek;59;WrocÅaw;;KKW Koalicja Obywatelska;4
+0;1;GRABAREK Tadeusz PaweÅ;64;WrocÅaw;;KKW Koalicja Obywatelska;5
+1;2;GRANOWSKA Renata MaÅgorzata;44;WrocÅaw;;KKW Koalicja Obywatelska;5
+2;3;ÅLUSAREK Dariusz Robert;36;WrocÅaw;;KKW Koalicja Obywatelska;5
+3;4;KOSMECKI Adam;46;WrocÅaw;;KKW Koalicja Obywatelska;5
+4;5;KRUPOWICZ Anna Maria;64;WrocÅaw;;KKW Koalicja Obywatelska;5
+5;6;PADIASEK Aleksandra;43;WrocÅaw;;KKW Koalicja Obywatelska;5
+6;7;KULIG Krzysztof Piotr;33;WrocÅaw;;KKW Koalicja Obywatelska;5
+0;1;GÃRSKI MichaÅ Jakub;31;WrocÅaw;;KKW Koalicja Obywatelska;6
+1;2;KARPIÅSKI PaweÅ;39;WrocÅaw;;KKW Koalicja Obywatelska;6
+2;3;PIETROÅSKA Anna Maria;40;WrocÅaw;;KKW Koalicja Obywatelska;6
+3;4;STASIAK Joanna;30;WrocÅaw;;KKW Koalicja Obywatelska;6
+4;5;KÄSOÅ Arkadiusz Tomasz;40;WrocÅaw;;KKW Koalicja Obywatelska;6
+5;6;STYSIAK Ewelina;32;WrocÅaw;;KKW Koalicja Obywatelska;6
+6;7;KUCHARSKI Tomasz PaweÅ;39;WrocÅaw;;KKW Koalicja Obywatelska;6
+7;8;ZIELIÅSKI Maciej Jerzy;47;WrocÅaw;;KKW Koalicja Obywatelska;6
+0;1;WOLAK Ewa Wanda;58;WrocÅaw;;KKW Koalicja Obywatelska;7
+1;2;RAZIK-TRZISZKA Magdalena;31;WrocÅaw;;KKW Koalicja Obywatelska;7
+2;3;Å»AK Mateusz Damian;24;WrocÅaw;;KKW Koalicja Obywatelska;7
+3;4;BRACHMAÅSKI MikoÅaj Marek;24;WrocÅaw;;KKW Koalicja Obywatelska;7
+4;5;KRZAK Grzegorz;54;WrocÅaw;;KKW Koalicja Obywatelska;7
+5;6;GILAR Daria;41;WrocÅaw;;KKW Koalicja Obywatelska;7
+6;7;KONIK MieczysÅaw Jerzy;60;WrocÅaw;;KKW Koalicja Obywatelska;7
+0;1;JARZÄBEK Zbigniew Antoni;61;WrocÅaw;;KWW Kukiz'15;1
+1;2;MITÅASZEWSKA Joanna Krystyna;39;WrocÅaw;;KWW Kukiz'15;1
+2;3;STATKIEWICZ MikoÅaj Kazimierz;37;WrocÅaw;;KWW Kukiz'15;1
+3;4;BOGUCKI Marcin;43;WrocÅaw;;KWW Kukiz'15;1
+4;5;BYLICA Jacek Krzysztof;48;WrocÅaw;;KWW Kukiz'15;1
+5;6;BIELECKA Halina Maria;64;WrocÅaw;;KWW Kukiz'15;1
+6;7;DUMNICKA Jolanta Dorota;58;WrocÅaw;;KWW Kukiz'15;1
+7;8;ZAJST Andrzej MirosÅaw;28;WrocÅaw;;KWW Kukiz'15;1
+0;1;BIELECKA Halszka Beata;32;WrocÅaw;;KWW Kukiz'15;2
+1;2;JURNECZKO RafaÅ Krzysztof;41;WrocÅaw;;KWW Kukiz'15;2
+2;3;JARZÄBEK BogusÅawa Hanna;59;WrocÅaw;;KWW Kukiz'15;2
+3;4;KILIÅSKI Tadeusz;57;WrocÅaw;;KWW Kukiz'15;2
+4;5;BROÅ»EK Åukasz;35;WrocÅaw;;KWW Kukiz'15;2
+5;6;ZAJST ZdzisÅawa;61;WrocÅaw;;KWW Kukiz'15;2
+6;7;KOLEÅNIK Andrzej Tadeusz Jan;74;WrocÅaw;;KWW Kukiz'15;2
+0;1;MOJZESOWICZ Krzysztof;53;WrocÅaw;;KWW Kukiz'15;3
+1;2;WABIK Aleksandra;36;WrocÅaw;;KWW Kukiz'15;3
+2;3;SKOTIS Stefan;67;WrocÅaw;;KWW Kukiz'15;3
+3;4;GLIÅSKI Andrzej Grzegorz;32;WrocÅaw;;KWW Kukiz'15;3
+4;5;JASIÅSKA Marta Eliza;33;WrocÅaw;;KWW Kukiz'15;3
+5;6;BOGDANOWICZ Zofia Anna;69;WrocÅaw;;KWW Kukiz'15;3
+6;7;DUDZIÅSKI Gerard Jakub;40;WrocÅaw;;KWW Kukiz'15;3
+0;1;STUDNIARCZYK Witold Jan;56;WrocÅaw;;KWW Kukiz'15;4
+1;2;ZGLIÅSKA Magdalena Aldona;29;WrocÅaw;;KWW Kukiz'15;4
+2;3;GONCIARZ Sebastian Jan;24;WrocÅaw;;KWW Kukiz'15;4
+3;4;KUCIAPIÅSKI JarosÅaw;44;WrocÅaw;;KWW Kukiz'15;4
+4;5;PIOTROWSKA Iwona;33;WrocÅaw;;KWW Kukiz'15;4
+5;6;WIÅLICKI PrzemysÅaw Grzegorz;49;WrocÅaw;;KWW Kukiz'15;4
+6;7;STUDNIARCZYK Irena Zuzanna;53;WrocÅaw;;KWW Kukiz'15;4
+0;1;WALCZAK GraÅ¼yna;67;WrocÅaw;;KWW Kukiz'15;5
+1;2;TADEUSZYK Teresa;62;WrocÅaw;;KWW Kukiz'15;5
+2;3;GARCZAREK Krzysztof Ryszard;23;WrocÅaw;;KWW Kukiz'15;5
+3;4;SZCZEPANIAK Kamila Anna;21;WrocÅaw;;KWW Kukiz'15;5
+4;5;MARAS Marcin;36;WrocÅaw;;KWW Kukiz'15;5
+5;6;Å»YGADÅO MirosÅaw;59;WrocÅaw;;KWW Kukiz'15;5
+6;7;WIETRZYKOWSKI Waldemar Zbigniew;61;WrocÅaw;;KWW Kukiz'15;5
+0;1;MATECKI Iwo Karol;37;WrocÅaw;;KWW Kukiz'15;6
+1;2;KOÅ»UCH Agnieszka;44;WrocÅaw;;KWW Kukiz'15;6
+2;3;MICHALAK Bartosz Mateusz;37;WrocÅaw;;KWW Kukiz'15;6
+3;4;KÅODNICKI Dariusz;49;WrocÅaw;;KWW Kukiz'15;6
+4;5;GROSS Aleksandra Anna;24;WrocÅaw;;KWW Kukiz'15;6
+5;6;MARTYNIAK Krzysztof Piotr;37;WrocÅaw;;KWW Kukiz'15;6
+6;7;MACAÅA Åukasz MichaÅ;27;WrocÅaw;;KWW Kukiz'15;6
+7;8;KRASSOWSKA Agnieszka Julita;45;WrocÅaw;;KWW Kukiz'15;6
+0;1;ÅWIÄCICKI Grzegorz Artur;50;WrocÅaw;;KWW Kukiz'15;7
+1;2;NAPIERAÅA Bogdan Adam;57;WrocÅaw;;KWW Kukiz'15;7
+2;3;WRÃBEL Joanna Krystyna;45;WrocÅaw;;KWW Kukiz'15;7
+3;4;BOBER Danuta;49;WrocÅaw;;KWW Kukiz'15;7
+4;5;GAJDA Mariusz CzesÅaw;42;WrocÅaw;;KWW Kukiz'15;7
+5;6;TROJANOWSKA Magdalena Anna;52;WrocÅaw;;KWW Kukiz'15;7
+0;1;CHUDZIK Janusz;49;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+1;2;KELLNER MaÅgorzata StanisÅawa;51;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+2;3;MROZOWSKA Urszula Beata;57;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+3;4;DOBRZAÅSKA-BUCZEK Barbara Maria;43;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+4;5;MIKOÅAJCZYK Justyna;34;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+5;6;KLUBIÅSKA ElÅ¼bieta Maria;62;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+6;7;SKOCZYLAS Jerzy JÃ³zef;64;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+7;8;PAÅYSA Edward;69;WrocÅaw;;KW Prawo i Sprawiedliwo��;1
+0;1;MARYÅSKI Piotr Tomasz;52;WrocÅaw;;KW Prawo i Sprawiedliwo��;2
+1;2;MOTYKA Tomasz Marek;37;WrocÅaw;;KW Prawo i Sprawiedliwo��;2
+2;3;CEBRYÅ Ryszard StanisÅaw;53;WrocÅaw;;KW Prawo i Sprawiedliwo��;2
+3;4;SZYROCKA Iwona Marzenna;64;WrocÅaw;;KW Prawo i Sprawiedliwo��;2
+4;5;CHLEWICKA GraÅ¼yna;61;WrocÅaw;;KW Prawo i Sprawiedliwo��;2
+5;6;BUTYTER Daniel;27;WrocÅaw;;KW Prawo i Sprawiedliwo��;2
+6;7;PÅOÅSKA Marta;31;WrocÅaw;;KW Prawo i Sprawiedliwo��;2
+0;1;LACH MirosÅaw MieczysÅaw;62;WrocÅaw;;KW Prawo i Sprawiedliwo��;3
+1;2;GRZECHNIK Robert Sebastian;35;WrocÅaw;;KW Prawo i Sprawiedliwo��;3
+2;3;ÅAPOT Robert Grzegorz;44;WrocÅaw;;KW Prawo i Sprawiedliwo��;3
+3;4;KRYSZCZUK BogusÅaw Marian;68;WrocÅaw;;KW Prawo i Sprawiedliwo��;3
+4;5;TORZEWSKA Agnieszka Maria;39;WrocÅaw;;KW Prawo i Sprawiedliwo��;3
+5;6;POKUSIÅSKA-MARTOWICZ Ewa Krystyna;52;WrocÅaw;;KW Prawo i Sprawiedliwo��;3
+6;7;DIMMICH-SZAÅKOWSKA Anna;37;WrocÅaw;;KW Prawo i Sprawiedliwo��;3
+0;1;KILIJANEK Andrzej;27;WrocÅaw;;KW Prawo i Sprawiedliwo��;4
+1;2;WOJTASIK Anita Maria;51;WrocÅaw;;KW Prawo i Sprawiedliwo��;4
+2;3;ÅWIDERSKI Wojciech Zbigniew;58;WrocÅaw;;KW Prawo i Sprawiedliwo��;4
+3;4;KROWIÅSKI Waldemar SÅawomir;57;WrocÅaw;;KW Prawo i Sprawiedliwo��;4
+4;5;STOPA Urszula Maria;66;WrocÅaw;;KW Prawo i Sprawiedliwo��;4
+5;6;SEMANISZYN Wilhelm;75;WrocÅaw;;KW Prawo i Sprawiedliwo��;4
+6;7;DUTKA Aleksandra;29;WrocÅaw;;KW Prawo i Sprawiedliwo��;4
+0;1;PIWOÅSKI Dariusz Dominik;28;WrocÅaw;;KW Prawo i Sprawiedliwo��;5
+1;2;PIECHEL MichaÅ;32;WrocÅaw;;KW Prawo i Sprawiedliwo��;5
+2;3;KONDZIELA Ewelina Barbara;60;WrocÅaw;;KW Prawo i Sprawiedliwo��;5
+3;4;SZCZYRBAK Tadeusz;46;WrocÅaw;;KW Prawo i Sprawiedliwo��;5
+4;5;GOUMISSI Ewa;58;WrocÅaw;;KW Prawo i Sprawiedliwo��;5
+5;6;GUMKOWSKA Aleksandra Maria;29;WrocÅaw;;KW Prawo i Sprawiedliwo��;5
+6;7;NOWAKOWSKI Leszek Zygmunt;55;WrocÅaw;;KW Prawo i Sprawiedliwo��;5
+0;1;KMIECIK Sergiusz;40;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+1;2;OLBERT Åukasz;29;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+2;3;GÃRAL JarosÅaw;47;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+3;4;PRZYGODA Krystyna Teresa;64;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+4;5;WRONA Andrzej;54;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+5;6;PEÅECH-PYRSZ Agnieszka;43;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+6;7;SKUPIEÅ MirosÅaw Jerzy;57;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+7;8;HAJEWSKA Jolanta ElÅ¼bieta;60;WrocÅaw;;KW Prawo i Sprawiedliwo��;6
+0;1;PIEÅKOWSKI Robert;52;WrocÅaw;;KW Prawo i Sprawiedliwo��;7
+1;2;KURCZEWSKI MichaÅ Tymoteusz;34;WrocÅaw;;KW Prawo i Sprawiedliwo��;7
+2;3;SKOWRON Mariola;54;WrocÅaw;;KW Prawo i Sprawiedliwo��;7
+3;4;OCHMAN Beata Maria;56;WrocÅaw;;KW Prawo i Sprawiedliwo��;7
+4;5;BAMBERSKI PaweÅ Henryk;73;WrocÅaw;;KW Prawo i Sprawiedliwo��;7
+5;6;WYSOCZAÅSKA Alicja Monika;33;WrocÅaw;;KW Prawo i Sprawiedliwo��;7
+6;7;ZAPOROWSKI MichaÅ Karol;54;WrocÅaw;;KW Prawo i Sprawiedliwo��;7
+0;1;MICHALAK Jerzy Andrzej;44;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+1;2;DUCHNOWSKA Izabela Maria;45;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+2;3;SEMENIUK-PRZYMÄCKA Sylwia Agnieszka;44;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+3;4;SZYMCZYSZYN Tomasz;40;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+4;5;KAMECKA Joanna Emilia;36;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+5;6;WAWRYNIUK Agata;30;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+6;7;LORKOWSKI PaweÅ Jerzy;35;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+7;8;SUBZDA MaÅgorzata;43;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;1
+0;1;FILAR PrzemysÅaw Maciej;39;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;2
+1;2;TOMCZAK Mariusz Jan;24;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;2
+2;3;WOLSKA Agnieszka Monika;33;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;2
+3;4;POÅ¹NIAK Ewa Karolina;42;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;2
+4;5;PIÄTEK StanisÅaw Roman;34;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;2
+5;6;MAJCHRZAK ElÅ¼bieta Krystyna;67;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;2
+6;7;TOKARZ Mariusz;46;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;2
+0;1;LEMAÅSKA Aleksandra Lilia;38;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;3
+1;2;PALACZ Piotr Zbigniew;33;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;3
+2;3;BARON Katarzyna ElÅ¼bieta;27;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;3
+3;4;BIELAÅSKA Jolanta Gizela;50;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;3
+4;5;PIÄTEK Iwona Agata;38;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;3
+5;6;HAMERLIK Marek Lech;34;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;3
+6;7;RYCHLEWSKI Konrad Krzysztof;37;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;3
+0;1;KUBIT Agnieszka;37;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;4
+1;2;SYSÅO Tomasz Jakub;45;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;4
+2;3;NEHRING Agnieszka;40;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;4
+3;4;WERSOCKA Magdalena Joanna;47;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;4
+4;5;CEDRO Mateusz Jacek;23;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;4
+5;6;CYMBOR PaweÅ Janusz;33;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;4
+6;7;BOBOWIEC Wiktoria Jadwiga;18;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;4
+0;1;OWCZAREK Tomasz;31;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;5
+1;2;TARAS Aleksandra;31;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;5
+2;3;KOWALSKI RafaÅ PaweÅ;31;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;5
+3;4;KARPOWICZ Daniel Jonatan;22;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;5
+4;5;SOKÃÅ Anna Urszula;48;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;5
+5;6;TRZECIAK-CYMBOR Ewa Barbara;33;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;5
+6;7;RINK Krzysztof Jerzy;41;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;5
+0;1;CZERWIÅSKI SÅawomir Antoni;32;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+1;2;PACYNA Katarzyna Monika;41;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+2;3;GARSTKA MichaÅ PaweÅ;45;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+3;4;KRZAK ElÅ¼bieta Jadwiga;62;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+4;5;BISKUP Wojciech Bogdan;38;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+5;6;ORÅOÅ Magdalena Agnieszka;34;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+6;7;SKURCZYÅSKA GraÅ¼yna MirosÅawa;53;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+7;8;MICHALAK Andrzej JÃ³zef;77;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;6
+0;1;OBÅÄK Aleksander Marek;24;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;7
+1;2;ZANKOWSKI PrzemysÅaw Kamil;46;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;7
+2;3;LORENZ Daria Apolonia;32;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;7
+3;4;KOZÅOWSKI Henryk;73;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;7
+4;5;OLCZAK Jagoda Paulina;24;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;7
+5;6;SMOLARCZYK Izabela Katarzyna;30;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;7
+6;7;SKAWSKI RadosÅaw Andrzej;29;WrocÅaw;;KWW Bezpartyjny ruch obywatelski Jerzego Michalaka;7
+0;1;MATOLICZ Krzysztof Klemens;36;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+1;2;KUÅ Anna MaÅgorzata;39;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+2;3;JUNGIEWICZ Bartosz Leszek;34;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+3;4;BANOT ElÅ¼bieta Iwona;53;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+4;5;ANDREJEWICZ WÅadysÅaw;63;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+5;6;PANCEWICZ Teresa Maria;61;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+6;7;NOCULA-RYDZ Patrycja Anna;31;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+7;8;LUPOMÄSKÃ Jan Rafael;33;WrocÅaw;;KW Bezpartyjny Wroc�aw;1
+0;1;PRZYWARA Karol;31;WrocÅaw;;KW Bezpartyjny Wroc�aw;2
+1;2;JANUSIK Magdalena Katarzyna;39;WrocÅaw;;KW Bezpartyjny Wroc�aw;2
+2;3;KOZÅOWSKI Tomasz Grzegorz;42;WrocÅaw;;KW Bezpartyjny Wroc�aw;2
+3;4;MURASZKOWSKA Marta MaÅgorzata;35;WrocÅaw;;KW Bezpartyjny Wroc�aw;2
+4;5;DRELICH Kamila Teresa;34;WrocÅaw;;KW Bezpartyjny Wroc�aw;2
+5;6;KIERAKOWICZ PaweÅ;19;WrocÅaw;;KW Bezpartyjny Wroc�aw;2
+6;7;KLAKOÄAR Marzena Krystyna;58;WrocÅaw;;KW Bezpartyjny Wroc�aw;2
+0;1;BIELAÅSKI Krzysztof Andrzej;30;WrocÅaw;;KW Bezpartyjny Wroc�aw;3
+1;2;ROSIÅCZUK Joanna StanisÅawa;47;WrocÅaw;;KW Bezpartyjny Wroc�aw;3
+2;3;TURALSKI Tomasz Krzysztof;24;WrocÅaw;;KW Bezpartyjny Wroc�aw;3
+3;4;KOCIK Katarzyna;36;WrocÅaw;;KW Bezpartyjny Wroc�aw;3
+4;5;PRAWDZIK Martyna Michalina;29;WrocÅaw;;KW Bezpartyjny Wroc�aw;3
+5;6;AKSAK MichaÅ Andrzej;31;WrocÅaw;;KW Bezpartyjny Wroc�aw;3
+6;7;PRZYBYSZEWSKI Adam Romuald;57;WrocÅaw;;KW Bezpartyjny Wroc�aw;3
+0;1;OBARA-KOWALSKA Katarzyna Anna;40;WrocÅaw;;KW Bezpartyjny Wroc�aw;4
+1;2;BOCHEN PaweÅ;36;WrocÅaw;;KW Bezpartyjny Wroc�aw;4
+2;3;NIÅ¹NIK Ewelina Anna;39;WrocÅaw;;KW Bezpartyjny Wroc�aw;4
+3;4;CIECHANOWSKI-MIREK Patryk;33;WrocÅaw;;KW Bezpartyjny Wroc�aw;4
+4;5;HAÅACZKIEWICZ Katarzyna Iwona;33;WrocÅaw;;KW Bezpartyjny Wroc�aw;4
+5;6;GRANOWICZ Marek Wojciech;23;WrocÅaw;;KW Bezpartyjny Wroc�aw;4
+6;7;BURNECKA MaÅgorzata Dominika;37;WrocÅaw;;KW Bezpartyjny Wroc�aw;4
+0;1;MÄCARZ Dariusz;30;WrocÅaw;;KW Bezpartyjny Wroc�aw;5
+1;2;TYBOR Karolina;40;WrocÅaw;;KW Bezpartyjny Wroc�aw;5
+2;3;MATURA BartÅomiej Grzegorz;26;WrocÅaw;;KW Bezpartyjny Wroc�aw;5
+3;4;CHMURA Emilia;39;WrocÅaw;;KW Bezpartyjny Wroc�aw;5
+4;5;WALASZCZYK Åukasz;35;WrocÅaw;;KW Bezpartyjny Wroc�aw;5
+5;6;MARAS Eleonora;62;WrocÅaw;;KW Bezpartyjny Wroc�aw;5
+6;7;HAMKAÅO Jacek;36;WrocÅaw;;KW Bezpartyjny Wroc�aw;5
+0;1;HAÅACZKIEWICZ Patryk Damian;34;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+1;2;PARTYKA Wojciech Andrzej;35;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+2;3;SZRAJBER Jakub;26;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+3;4;DZIOBA Dorota Helena;44;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+4;5;MARCINÃW Teresa Anna;40;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+5;6;TEKLIÅSKI MichaÅ PaweÅ;36;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+6;7;WYSZOMIRSKA-PIÃRO BoÅ¼ena;40;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+7;8;SERAFIN Karolina Ewa;37;WrocÅaw;;KW Bezpartyjny Wroc�aw;6
+0;1;MAÅLANKA Grzegorz Sebastian;37;WrocÅaw;;KW Bezpartyjny Wroc�aw;7
+1;2;FIGASZEWSKA Katarzyna Agnieszka;36;WrocÅaw;;KW Bezpartyjny Wroc�aw;7
+2;3;WÅODARSKI RafaÅ Grzegorz;28;WrocÅaw;;KW Bezpartyjny Wroc�aw;7
+3;4;ZIARKOWSKI Åukasz Grzegorz;28;WrocÅaw;;KW Bezpartyjny Wroc�aw;7
+4;5;KLIMKOWSKA Katarzyna Helena;28;WrocÅaw;;KW Bezpartyjny Wroc�aw;7
+5;6;WÃJTA-KEMPA Monika Sylwia;44;WrocÅaw;;KW Bezpartyjny Wroc�aw;7
+6;7;ORZECHOWSKI Jacek PaweÅ;51;WrocÅaw;;KW Bezpartyjny Wroc�aw;7
+0;1;BIENIAS Anna Agnieszka;26;WrocÅaw;;KW Jeste�my St�d;1
+1;2;KONDRACKA Karolina Marta;18;WrocÅaw;;KW Jeste�my St�d;1
+2;3;MERTA MaÅgorzata Lidia;43;WrocÅaw;;KW Jeste�my St�d;1
+3;4;SOMPOLIÅSKI Andrzej Sebastian;44;WrocÅaw;;KW Jeste�my St�d;1
+4;5;SOMPOLIÅSKA Marta ElÅ¼bieta;39;WrocÅaw;;KW Jeste�my St�d;1
+5;6;LASKOWSKI MichaÅ Mieszko;18;WrocÅaw;;KW Jeste�my St�d;1
+6;7;KLAKOÄAR Agata Ludwika;30;WrocÅaw;;KW Jeste�my St�d;1
+7;8;JACHIMOWICZ Adam StanisÅaw;34;WrocÅaw;;KW Jeste�my St�d;1
+0;1;GIBASIEWICZ Joanna Agata;18;WrocÅaw;;KW Jeste�my St�d;2
+1;2;NAWARA Marek MichaÅ;24;WrocÅaw;;KW Jeste�my St�d;2
+2;3;ELÅ»BIECIAK Wojciech Bartosz;19;WrocÅaw;;KW Jeste�my St�d;2
+3;4;BOCZEK Leszek Henryk;33;WrocÅaw;;KW Jeste�my St�d;2
+4;5;KRAJEWSKA Katarzyna Iwona;41;WrocÅaw;;KW Jeste�my St�d;2
+0;1;SAWICKI MichaÅ;44;WrocÅaw;;KW Jeste�my St�d;3
+1;2;WILK Andrzej Zbigniew;43;WrocÅaw;;KW Jeste�my St�d;3
+2;3;CAÅUS Katarzyna Izabela;20;WrocÅaw;;KW Jeste�my St�d;3
+3;4;DZIEWULSKI PaweÅ Marek;43;WrocÅaw;;KW Jeste�my St�d;3
+4;5;KACZMAREK Marlena MaÅgorzata;37;WrocÅaw;;KW Jeste�my St�d;3
+0;1;PACHOLSKA Agata Jadwiga;45;WrocÅaw;;KW Jeste�my St�d;4
+1;2;SOKOLIK Mateusz Kamil;21;WrocÅaw;;KW Jeste�my St�d;4
+2;3;OLEARCZUK Maciej RadosÅaw;18;WrocÅaw;;KW Jeste�my St�d;4
+3;4;PIETRUSZCZAK-GRZESIEK Anna Maria;48;WrocÅaw;;KW Jeste�my St�d;4
+4;5;CINGLEWICZ Aneta BoÅ¼ena;38;WrocÅaw;;KW Jeste�my St�d;4
+5;6;GODNIEWICZ Adrian Damian;18;WrocÅaw;;KW Jeste�my St�d;4
+0;1;GÃRAK Iwona Agnieszka;33;WrocÅaw;;KW Jeste�my St�d;6
+1;2;LUBECKI Ryszard Jan;60;WrocÅaw;;KW Jeste�my St�d;6
+2;3;JÄDRZEJCZAK Anna;41;WrocÅaw;;KW Jeste�my St�d;6
+3;4;PAÅAC Krzysztof;56;WrocÅaw;;KW Jeste�my St�d;6
+4;5;Å»ECHAÅKO Marcin Antoni;22;WrocÅaw;;KW Jeste�my St�d;6
+5;6;LISZKA StanisÅawa;85;WrocÅaw;;KW Jeste�my St�d;6
+0;1;DROGOSZ BartÅomiej;55;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+1;2;SZURMAK Anna;51;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+2;3;CHODOR Piotr Tadeusz;54;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+3;4;PADEREWSKI StanisÅaw Jan;63;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+4;5;KWAPISZ Renata Lucyna;54;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+5;6;PIECHOTA Janusz Andrzej;60;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+6;7;ORZECHOWSKA Krystyna;59;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+7;8;DROGOSZ Edyta Agnieszka;50;WrocÅaw;;KWW Jarka Bogus�awskiego;1
+0;1;ÅABÄDZKA MaÅgorzata Maria;54;WrocÅaw;;KWW Jarka Bogus�awskiego;2
+1;2;STYRCZULA Szymon Kazimierz;26;WrocÅaw;;KWW Jarka Bogus�awskiego;2
+2;3;STÄPIÅSKI Dariusz Dominik;48;WrocÅaw;;KWW Jarka Bogus�awskiego;2
+3;4;CZECH Marta Anna;33;WrocÅaw;;KWW Jarka Bogus�awskiego;2
+4;5;OCHMANN Mariola;42;WrocÅaw;;KWW Jarka Bogus�awskiego;2
+5;6;PAÅAC Ewa Urszula;56;WrocÅaw;;KWW Jarka Bogus�awskiego;2
+6;7;WARZECHA Dominik Patryk;27;WrocÅaw;;KWW Jarka Bogus�awskiego;2
+0;1;WALCZYK Katarzyna Natalia;35;WrocÅaw;;KWW Jarka Bogus�awskiego;3
+1;2;Å»ÅOBIÅSKI Jerzy;72;WrocÅaw;;KWW Jarka Bogus�awskiego;3
+2;3;SOCHAÅSKA Anna Weronika;26;WrocÅaw;;KWW Jarka Bogus�awskiego;3
+3;4;TOPOREK MaÅgorzata Ewa;52;WrocÅaw;;KWW Jarka Bogus�awskiego;3
+4;5;NYSLER Zbigniew Wojciech;68;WrocÅaw;;KWW Jarka Bogus�awskiego;3
+5;6;SZCZEPUÅA Anna Ewa;40;WrocÅaw;;KWW Jarka Bogus�awskiego;3
+6;7;BRANDT Mateusz;29;WrocÅaw;;KWW Jarka Bogus�awskiego;3
+0;1;LISZKA Regina Maria;57;WrocÅaw;;KWW Jarka Bogus�awskiego;4
+1;2;KRAWCZYK MirosÅaw Piotr;49;WrocÅaw;;KWW Jarka Bogus�awskiego;4
+2;3;KURIATA Joanna Teresa;50;WrocÅaw;;KWW Jarka Bogus�awskiego;4
+3;4;KRUCIÅSKI Adam Jakub;29;WrocÅaw;;KWW Jarka Bogus�awskiego;4
+4;5;LESZCZYÅSKA Klaudia MaÅgorzata;26;WrocÅaw;;KWW Jarka Bogus�awskiego;4
+5;6;ZYBAÅA Iwona MaÅgorzata;40;WrocÅaw;;KWW Jarka Bogus�awskiego;4
+6;7;SIECZKA Kuba Tomasz;18;WrocÅaw;;KWW Jarka Bogus�awskiego;4
+0;1;KOSTRZEWA Ewa Magdalena;51;WrocÅaw;;KWW Jarka Bogus�awskiego;5
+1;2;FIEDOROWICZ Ewa Teresa;62;WrocÅaw;;KWW Jarka Bogus�awskiego;5
+2;3;SZEWCZUK Aleks Artur;19;WrocÅaw;;KWW Jarka Bogus�awskiego;5
+3;4;GALA Zbigniew Marian;64;WrocÅaw;;KWW Jarka Bogus�awskiego;5
+4;5;PAÅ¹DZIOR Magdalena;43;WrocÅaw;;KWW Jarka Bogus�awskiego;5
+5;6;NIÅ»AÅOWSKA Zuzanna;62;WrocÅaw;;KWW Jarka Bogus�awskiego;5
+6;7;ADAMCZYK Sylwester;42;WrocÅaw;;KWW Jarka Bogus�awskiego;5
+0;1;BARAÅSKI Zbigniew Jan;68;WrocÅaw;;KWW Jarka Bogus�awskiego;6
+1;2;WOJTUÅ ElÅ¼bieta Anna;35;WrocÅaw;;KWW Jarka Bogus�awskiego;6
+2;3;CHARUCKI Henryk StanisÅaw;62;WrocÅaw;;KWW Jarka Bogus�awskiego;6
+3;4;MÄCZYÅSKA-BOBEK Maria Anna;71;WrocÅaw;;KWW Jarka Bogus�awskiego;6
+4;5;SZIR Sylwia Maria;29;WrocÅaw;;KWW Jarka Bogus�awskiego;6
+0;1;TARNAWSKI Krzysztof Roland;38;WrocÅaw;;KWW Jarka Bogus�awskiego;7
+1;2;OLSZEWSKI Wojciech Zbigniew;45;WrocÅaw;;KWW Jarka Bogus�awskiego;7
+2;3;KRAJEWSKA Magdalena Eliza;42;WrocÅaw;;KWW Jarka Bogus�awskiego;7
+3;4;JUSZCZAK Janina Aniela;65;WrocÅaw;;KWW Jarka Bogus�awskiego;7
+4;5;JASIUKIEWICZ Ewa;57;WrocÅaw;;KWW Jarka Bogus�awskiego;7
+5;6;OLENDEREK Jerzy Krzysztof;64;WrocÅaw;;KWW Jarka Bogus�awskiego;7
+6;7;SZYMANEK Wojciech;53;WrocÅaw;;KWW Jarka Bogus�awskiego;7
+0;1;CHWAÅCIK Arkadiusz;43;WrocÅaw;;KW Wolni i Solidarni;1
+1;2;BUKAÅA Urszula Ewa;67;WrocÅaw;;KW Wolni i Solidarni;1
+2;3;KULA Henryk;57;WrocÅaw;;KW Wolni i Solidarni;1
+3;4;SZYCHOWIAK Justyna Agnieszka;36;WrocÅaw;;KW Wolni i Solidarni;1
+4;5;BOÅ»YCKA Irena;65;WrocÅaw;;KW Wolni i Solidarni;1
+0;1;PORÄBSKA MaÅgorzata;56;WrocÅaw;;KW Wolni i Solidarni;2
+1;2;WIDERA Damian Oktawiusz;40;WrocÅaw;;KW Wolni i Solidarni;2
+2;3;WIÅNIEWSKI PaweÅ Tomasz;49;WrocÅaw;;KW Wolni i Solidarni;2
+3;4;CYRNEK Krzysztof;43;WrocÅaw;;KW Wolni i Solidarni;2
+4;5;KUCZYÅSKA-KULA ElÅ¼bieta WiesÅawa;54;WrocÅaw;;KW Wolni i Solidarni;2
+0;1;MAÅEK Tomasz;52;WrocÅaw;;KW Wolni i Solidarni;3
+1;2;WOSINEK Tadeusz Antoni;71;WrocÅaw;;KW Wolni i Solidarni;3
+2;3;BOERNER Ewa BogumiÅa;62;WrocÅaw;;KW Wolni i Solidarni;3
+3;4;WIDERA Norbert Konrad;46;WrocÅaw;;KW Wolni i Solidarni;3
+4;5;JAÅKIEWICZ Martyna Alicja;33;WrocÅaw;;KW Wolni i Solidarni;3
+0;1;RZÄDKOWSKI Marek Rajmund;58;WrocÅaw;;KW Wolni i Solidarni;4
+1;2;TERKIEWICZ Marta Maria;27;WrocÅaw;;KW Wolni i Solidarni;4
+2;3;ILNICKA Jadwiga StanisÅawa;59;WrocÅaw;;KW Wolni i Solidarni;4
+3;4;BARAÅSKI Tomasz;36;WrocÅaw;;KW Wolni i Solidarni;4
+4;5;SZIR Arkadiusz Janusz;39;WrocÅaw;;KW Wolni i Solidarni;4
+0;1;MAJ MieczysÅaw Jan;29;WrocÅaw;;KW Wolni i Solidarni;5
+1;2;TALAGA Sabina WÅadysÅawa;88;WrocÅaw;;KW Wolni i Solidarni;5
+2;3;GOSTYÅSKI Aleksander Bogusz;39;WrocÅaw;;KW Wolni i Solidarni;5
+3;4;MAÅEK Agnieszka Katarzyna;52;WrocÅaw;;KW Wolni i Solidarni;5
+4;5;Å»AKOWSKA Maria;64;WrocÅaw;;KW Wolni i Solidarni;5
+0;1;HANCZAREK Tomasz;49;WrocÅaw;;KW Wolni i Solidarni;6
+1;2;JOKS Marlena Ewa;48;WrocÅaw;;KW Wolni i Solidarni;6
+2;3;WANAT Urszula Maria;70;WrocÅaw;;KW Wolni i Solidarni;6
+3;4;CHÅADZIÅSKI Maciej Andrzej;41;WrocÅaw;;KW Wolni i Solidarni;6
+4;5;SMOLIÅSKI Bartosz;40;WrocÅaw;;KW Wolni i Solidarni;6
+5;6;KOCUR Åukasz BolesÅaw;34;WrocÅaw;;KW Wolni i Solidarni;6
+6;7;GLIÅSKA Ewa Wanda;61;WrocÅaw;;KW Wolni i Solidarni;6
+7;8;WYDROWSKI Krzysztof Marcin;29;WrocÅaw;;KW Wolni i Solidarni;6
+0;1;MARCZAK Agnieszka WiesÅawa;55;WrocÅaw;;KW Wolni i Solidarni;7
+1;2;ZAMBRZYCKA Izabella Beata;64;WrocÅaw;;KW Wolni i Solidarni;7
+2;3;SZCZERBA Tadeusz Jerzy;67;WrocÅaw;;KW Wolni i Solidarni;7
+3;4;GODOWSKI PrzemysÅaw Jan;65;WrocÅaw;;KW Wolni i Solidarni;7
+4;5;ÅOBODA Halina;66;WrocÅaw;;KW Wolni i Solidarni;7
+0;1;KÅOSOWSKI Dominik;41;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+1;2;SKOCZYLAS Jerzy WÅadysÅaw;70;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+2;3;NOWAK Magdalena Agata;41;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+3;4;DALESZYÅSKA Anna Krystyna;43;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+4;5;KRASIÅSKA Agna Magdalena;49;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+5;6;WÃJCIK MaÅgorzata;30;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+6;7;WÅODARCZYK Iwona ElÅ¼bieta;61;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+7;8;CHMIELEWSKI Jan Roman;66;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;1
+0;1;ANISZCZYK Bohdan JÃ³zef;66;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;2
+1;2;SUSMANEK Leon Daniel;64;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;2
+2;3;ZIEMBICKA-HAS Wanda WiesÅawa;71;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;2
+3;4;ÅNIEÅ»EK Beata ElÅ¼bieta;47;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;2
+4;5;WITKOWSKA Anna Kazimiera;70;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;2
+5;6;BAMWENDA BoÅ¼ena;59;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;2
+6;7;WAGNER Robert Alfred;42;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;2
+0;1;KRAUZE JarosÅaw Piotr;60;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;3
+1;2;ROSIÅSKA BronisÅawa;60;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;3
+2;3;PIONTEK Jan Feliks;54;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;3
+3;4;SZURANT Sylwia Anna;47;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;3
+4;5;ROGALA StanisÅaw;79;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;3
+5;6;PISKORSKA Agnieszka Joanna;46;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;3
+6;7;MALITOWSKI Åukasz WÅadysÅaw;25;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;3
+0;1;CIÄÅ»YÅSKI BartÅomiej Zygmunt;36;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;4
+1;2;OSSOWSKI Jacek Antoni;71;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;4
+2;3;SZOCIÅSKA-KLEIN Marzena;50;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;4
+3;4;LEWANDOWSKA Alicja Mariola;58;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;4
+4;5;BINKOWSKA DobrosÅawa Olga;43;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;4
+5;6;SZÅAPKA Krzysztof Zbigniew;25;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;4
+6;7;SZCZERBA Krzysztof PaweÅ;27;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;4
+0;1;CYRUL CzesÅaw;67;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;5
+1;2;ZAWADA MaÅgorzata Ewa;40;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;5
+2;3;FURDYNA Jolanta StanisÅawa;59;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;5
+3;4;SZOPA WÅadysÅaw;62;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;5
+4;5;BRYX Kaja Maria;35;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;5
+5;6;WITKOWSKA Renata Monika;45;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;5
+6;7;OWCZAREK Jacek Tomasz;50;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;5
+0;1;LEMPART Marta MirosÅawa;39;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+1;2;BRZOZOWSKI Artur Kazimierz;40;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+2;3;KUÅAGA Lidia;64;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+3;4;STEREÅCZAK Tomasz MichaÅ;39;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+4;5;KRESKA Agata Maria;36;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+5;6;KUÅAGA WiesÅaw Leszek;71;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+6;7;HOÅYÅSKA Justyna Alicja;37;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+7;8;WOJCIECHOWSKI Robert Ryszard;44;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;6
+0;1;KÄDZIERSKA Agnieszka Kornelia;42;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;7
+1;2;RAÅDA PaweÅ RafaÅ;39;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;7
+2;3;ZARÄBA Kasper Jerzy;29;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;7
+3;4;MICKIEWICZ Marzena Ewa;56;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;7
+4;5;SZÅAPKA Hanna Maria;64;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;7
+5;6;NOWAKOWSKI Marcin Adam;35;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;7
+6;7;NIKOLCZUK Maciej BartÅomiej;35;WrocÅaw;;KWW Rafa�a Dutkiewicza - Sojusz dla Wroc�awia;7
+0;1;BROWARNY Wojciech Jan;48;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+1;2;BIELECKA-GOÅKA Halina;54;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+2;3;SZNAJDER MichaÅ;37;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+3;4;BORATYN Katarzyna ElÅ¼bieta;44;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+4;5;STÄPIEÅ Artur;40;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+5;6;SZUMIELEWICZ Marta;38;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+6;7;NIEMIEC Jan Mateusz;33;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+7;8;TUÅA Magdalena;34;WrocÅaw;;KWW Wroc�aw dla Wszytkich;1
+0;1;SZEPTYCKA Alina Barbara;38;WrocÅaw;;KWW Wroc�aw dla Wszytkich;2
+1;2;POKRZYWA Maciej;35;WrocÅaw;;KWW Wroc�aw dla Wszytkich;2
+2;3;ROZWADOWSKA Magdalena Patrycja;40;WrocÅaw;;KWW Wroc�aw dla Wszytkich;2
+3;4;CHAÅUPNIAK Andrzej;28;WrocÅaw;;KWW Wroc�aw dla Wszytkich;2
+4;5;DANIELEWSKA-DRZAZGA Katarzyna Barbara;40;WrocÅaw;;KWW Wroc�aw dla Wszytkich;2
+5;6;SKÃRSKI JarosÅaw;51;WrocÅaw;;KWW Wroc�aw dla Wszytkich;2
+6;7;POWAGA BoÅ¼ena Urszula;54;WrocÅaw;;KWW Wroc�aw dla Wszytkich;2
+0;1;PANCEWICZ Natalia Zofia;30;WrocÅaw;;KWW Wroc�aw dla Wszytkich;3
+1;2;CZERWIÅSKI Marcin;46;WrocÅaw;;KWW Wroc�aw dla Wszytkich;3
+2;3;GAJDZIÅSKA Anna;21;WrocÅaw;;KWW Wroc�aw dla Wszytkich;3
+3;4;KARCZ Grzegorz;38;WrocÅaw;;KWW Wroc�aw dla Wszytkich;3
+4;5;KWAÅNICKA Natalia Claudia;25;WrocÅaw;;KWW Wroc�aw dla Wszytkich;3
+5;6;SZCZEÅNIAK Maciej Adam;31;WrocÅaw;;KWW Wroc�aw dla Wszytkich;3
+6;7;KOWALCZYK-DERLÄGA Anna Danuta;49;WrocÅaw;;KWW Wroc�aw dla Wszytkich;3
+0;1;STOÅ»EK Marta Magdalena;42;WrocÅaw;;KWW Wroc�aw dla Wszytkich;4
+1;2;OLSZEWSKI Åukasz Jerzy;38;WrocÅaw;;KWW Wroc�aw dla Wszytkich;4
+2;3;KÅODNICKA Dorota Anna;27;WrocÅaw;;KWW Wroc�aw dla Wszytkich;4
+3;4;DÄBROWSKI Robert MikoÅaj;20;WrocÅaw;;KWW Wroc�aw dla Wszytkich;4
+4;5;MOSINGIEWICZ Aleksander Tymoteusz;35;WrocÅaw;;KWW Wroc�aw dla Wszytkich;4
+5;6;KOLUS Emilia Cecylia;34;WrocÅaw;;KWW Wroc�aw dla Wszytkich;4
+0;1;WYWROT Agnieszka Karolina;27;WrocÅaw;;KWW Wroc�aw dla Wszytkich;5
+1;2;WARULIK Tomasz Piotr;47;WrocÅaw;;KWW Wroc�aw dla Wszytkich;5
+2;3;SUDOÅ Daria Anna;35;WrocÅaw;;KWW Wroc�aw dla Wszytkich;5
+3;4;ZIÄBA PaweÅ Dariusz;51;WrocÅaw;;KWW Wroc�aw dla Wszytkich;5
+4;5;SKÃRSKA Dorota ElÅ¼bieta;51;WrocÅaw;;KWW Wroc�aw dla Wszytkich;5
+5;6;ÅAZARCZUK Krzysztof;56;WrocÅaw;;KWW Wroc�aw dla Wszytkich;5
+6;7;STANIOROWSKA Anna Maria;27;WrocÅaw;;KWW Wroc�aw dla Wszytkich;5
+0;1;ADAMCZYK Mateusz Tadeusz;28;WrocÅaw;;KWW Wroc�aw dla Wszytkich;6
+1;2;ÅWIÄTEK Marta Izabela;25;WrocÅaw;;KWW Wroc�aw dla Wszytkich;6
+2;3;GÃRECKI Mateusz Ariel;29;WrocÅaw;;KWW Wroc�aw dla Wszytkich;6
+3;4;ORACZYÅSKA Ewa MaÅgorzata;38;WrocÅaw;;KWW Wroc�aw dla Wszytkich;6
+4;5;STEGLIÅSKI Adrian Marek;28;WrocÅaw;;KWW Wroc�aw dla Wszytkich;6
+5;6;ADAMCZYK Maria ZdzisÅawa;65;WrocÅaw;;KWW Wroc�aw dla Wszytkich;6
+0;1;MINCER Tadeusz Albert;35;WrocÅaw;;KWW Wroc�aw dla Wszytkich;7
+1;2;LEBIEDZIÅSKA Joanna Maria;43;WrocÅaw;;KWW Wroc�aw dla Wszytkich;7
+2;3;STACHOWIAK Grzegorz;53;WrocÅaw;;KWW Wroc�aw dla Wszytkich;7
+3;4;GABRYK Marzena Anna;34;WrocÅaw;;KWW Wroc�aw dla Wszytkich;7
+4;5;FOLUSZ JarosÅaw;41;WrocÅaw;;KWW Wroc�aw dla Wszytkich;7
+5;6;ÅUKASIEWICZ Ewa Franciszka;34;WrocÅaw;;KWW Wroc�aw dla Wszytkich;7
+6;7;BEÅKOWSKI Krzysztof Henryk;61;WrocÅaw;;KWW Wroc�aw dla Wszytkich;7
